@@ -165,6 +165,24 @@ Makalenizi planlamanızda yardımcı olması için aşağıda cevap vermenizi is
 
 #### Fikri mülkiyet konusunda endişelenmeli miyim?
 
-Toplulukla Etkileşim Yarışması sıradışı ve yaratıcı bir şekilde tasarlanmış girdiler aramaktadır. Girdiler orijinal çalışma ve fikrin sahiplerinin olmalıdır. Girdi resimler, müzik ve yazılım kütüphaneleri üçüncü parti kaynakları izni olduğunu kanıtlayabildiği sürece kullanıbilirler (mesela özgürce kullanabilir şekilde yayınlanmış içerik, üretici imzalı sürüme sahip, vb.)
+Toplulukla Etkileşim Yarışması sıradışı ve yaratıcı bir şekilde tasarlanmış girdiler aramaktadır. Girdiler orijinal çalışma ve fikrin sahiplerinin olmalıdır. Girdiler resimler, müzik ve yazılım kütüphaneleri gibi üçüncü parti kaynakları izni olduğunu kanıtlayabildiği sürece kullanabilirler (mesela özgürce kullanabilir şekilde yayınlanmış içerik, oluştıran imzalı sürüme sahip, vb.)
 
-*devamı gelecek*
+#### Teknik işleme ne kadar önemli? Göşterişli grafiklere sahip yazım hatasız bir girdi, göşterişsiz ve yazım hatalı olan bir girdiyi oyunda yener mi?
+
+Eğer yazım hataları jürinin girdinin hangi konuyu ele aldığından emin olamayacağı kadar berbatsa, teknik işleme deneyimin önüne geçiyor demektir. Benzer olarak, girdinin grafiği (uygun olduğu yerde) özellikle göz alıcıysa, bu kenetleme ve yenilikçi yaratıcı vizyon açısıdan daha yüksek bir skor alınmasında rol oynayabilir. Esasen, Toplulukla Etkileşim Yarışması, geliştiricileri Özgür Yazılım Topluluğuna davet etmeyi amaçlar ve sanat, kodlama veya heceleme yarışması değildir, bu nedenle teknik yeteneğin (veya bunun olmayışının) değerlendirmesi daha önce de bahsedilmiş ölçüler üzerinden yapılmalıdır. 
+
+### Takımlar
+
+#### Kimler girebilir?
+
+Yarışmaya şu ülkelerin vatandaşları dışında herkes katılabilir: Küba, İran, Kuzey Kore, Sudan, Suriye, yada Ukrayna'nın Kırım bölgesi (ABD'nin ülke çaplı yaptırımları dolasıyla). Benzer olarak, "Özel Olarak Belirlenmiş Vatandaş Listesi"ndeki yasaklı kimseler ABD kısıtlamaları nedeniyle yarışmaya katılamazlar. Brezilya ve İtalya vatandaşları yarışmaları kısıtlayan yerel kanunlar nedeniyle dışarda tutulurlar. GNOME ve Endless çalışanları ve onların yakınları katılamazlar. Tam detaylar için lütfen şartlar ve koşullar sayfasını görüntüleyin. 
+
+#### Tek başıma katılabilir miyim?
+
+Evet, bir takıma gerek duymadan bireysel olarak katılabilirsiniz.
+
+#### Bir takım girebilir miyim? Takımım ne kadar büyük olabilir.
+
+Evet, çalışabileceğiniz başkaları varsa, kesinlikle bir takım kurun. 
+
+Bu proje sınıf veya bir arkadaş grubu için uygun. Takımın istediğin büyüklükte olabilir ama proje sorumluluklarını ve ödüllerleri bölüştürmen gerecekeğini unutma. 
