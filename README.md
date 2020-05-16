@@ -7,23 +7,23 @@ https://github.com/acikkaynak/acikkaynak-website/issues/79 üzerinden ulaşılab
 bir eksik/yanlışlık görürseniz veya bazı bölümler geçerliliğini yitirmişse hata kaydı veya pull request (çekme isteği) açarak değişiklik 
 talep edebilirsiniz.*
 
-## Sonraki nesil açık kaynak geliştiricileri ulaşılmasına yardımcı olun
+## Sonraki nesil açık kaynak geliştiricilere ulaşılmasına yardımcı olun
 
 GNOME Vakfı, [Endless](https://github.com/endlessm) işbirliğiyle bu yıl ilk kez yapılacak yeni başlangıç yapmış geliştiricileri özgür ve açık kaynak yazılımla (FOSS) tanıştırma fırsatı Toplulukla Etkileşim Yarışması'nı duyurmaktan gurur duyar. Hedefimiz bireyleri veya 
 takımları, sonraki nesil geliştiricileri FOSS topluluğu ile bağlayacak ve gelecek yıllarda öyle kalmalarını sağlayacak harekete geçirici 
 fikirlerini paylaşmaya teşvik etmektir.
 
-Aradığımız girdiler şu özellikleri taşımalıdır:Intellectual Property
+Aradığımız girdiler şu özellikleri taşımalıdır:
 
 * **Eğlenceli:** Kodlamayı ilginç ve FOSS topluluğuna katılımı heyecan verici hale getirir
 * **Eğitici:** Yeni başlangıç yapmış geliştiricinin yeteneklerini geliştirir
-* **Kenetleyici:** Geliştiriciyi FOSS topluluğuna bağlı kalmasını sağlar
+* **Kenetleyici:** Geliştiricinin FOSS topluluğuna bağlı kalmasını sağlar
 * **Yaratıcı:** Alışılmışın dışında olan girdiler takdir edilir
 * **Şıradışı:** Alana yeni bir şey ekler veya varolanı iyileştirir
 
 ## 20 bin doların üzerinde para ödülü kazanın
 
-Üç aşamalı bu yarışma toplamda 65 bin dolara kadar ve diğer türden ödülleri her adımın kazanınlarına vaad etmektedir. Girdilerin şunları
+Üç aşamalı bu yarışma toplamda 65 bin dolara kadar ve diğer türden ödülleri her adımın kazanınlarına vadetmektedir. Girdilerin şunları
 göstermesi beklenir:
 
 ### İlk aşama: Fikir
@@ -40,7 +40,7 @@ Yarışmanın belirlediği ölçüde çalışan teslimi mümkün bitmiş ürün
 
 ## Başvurunuzu 1 Haziran'a kadar yapın
 
-Birinci aşama şu anda devam etmektedir! Online formu doldurarak basvurunuzu iletin. Hala fikriniz üzerinde mi çalışıyorsunuz  aşağıda Sıkça Sorulan Sorular'ı ve cevaplarını bulabilirsiniz.
+Birinci aşama şu anda devam etmektedir! Online formu doldurarak basvurunuzu iletin. Hala fikriniz üzerinde mi çalışıyorsunuz? Aşağıda yardımcı olabilecek Sıkça Sorulan Sorular'ı ve cevaplarını bulabilirsiniz.
 
 ## Sıkça Sorulan Sorular
 
@@ -52,7 +52,7 @@ Bu bölüm, https://www.gnome.org/challenge/faq/ sayfasının yerelleştirilmiş
 
 Gelecek nesil geliştiricilerin desteklenmesine yardımcı olan bireyleri bulmak ve tanımak istiyoruz. 
 
-Yazılım mühendisliği eğitim ve öğretimine daha iyi erişim ihtiyacı dünya çapında bir dizi alanda yetersiz olarak tanımlanmıştır. Birkaç yıldır, topluluğumuz, FOSS sektöründeki birçokları gibi GNOME projesini istediğimiz şekilde daha da ileri götürmek için ihtiyacımız olan yetenekli geliştiricilerin ilgisini çekmekte ve bunu sürdürmekte zorluk çekmiştir. Bu ihtiyaç web frameworklerinin yükselişi ve macOS platformu üzerinde geliştirmenin popülerleşmesi, ayrıca mühendislik havuzunun beyaz tenli erkeklerin haricinde çesitlendirilmesindeki başarısızlığın sürekliliğiyle belirgin hale gelmiştir.
+Yazılım mühendisliği eğitim ve öğretimine daha iyi erişim ihtiyacı dünya çapında bir dizi alanda yetersiz olarak tanımlanmıştır. Birkaç yıldır, topluluğumuz, FOSS sektöründeki birçokları gibi GNOME projesini istediğimiz şekilde daha da ileri götürmek için ihtiyacımız olan yetenekli geliştiricilerin ilgisini çekmekte ve bunu sürdürmekte zorluk çekmiştir. Bu ihtiyaç web framework'lerinin yükselişi ve macOS platformu üzerinde geliştirmenin popülerleşmesi, ayrıca mühendislik havuzunun beyaz tenli erkeklerin haricinde çesitlendirilmesindeki başarısızlığın sürekliliğiyle belirgin hale gelmiştir.
 
 2018 ve 2019 yıllarında, StackOverflow Geliştirici Anketi bu trendin yükselişte olduğunu gösteriyor:
 
@@ -66,12 +66,12 @@ Bu uyumsuzluğu ele almanın açık kaynak yazılımın masaüstünde uzun döne
 
 Bu yarışmanın birincil hedefi yeni başlangıç yapmış yazılımcıları FOSS topluluğuyla tanıştırarak kodlama yeteneklerini iyiliştirmek ve onları FOSS toplululuğuna gelecek yıllarda bağlı kalmaya teşvik etmektir.
 
-Bunu gerçekleştirerek endistrünin şu anda deneyimlediği aksakları çözmekle beraber farkındalık yaratmayı, eğitimciler ve öğrenciler arasında özgür ve açık kaynak yazılama müdahil olmak için gereken yetenekleri iyileştirmeyi, FOSS kodlama eğitimi almış insanların (genç veya yetişkin) sayısını ve kendilerini kadın, ikili olmayan (non-binary), cinsiyetsiz (genderqueer) veya cinsiyet uyumsuz (gender non-conforming) olarak tanımlayan GNOME katkıcılarının oranını arttırmayı umuyoruz.
+Bunu gerçekleştirerek endistrünin şu anda deneyimlediği aksakları çözmekle beraber farkındalık yaratmayı, eğitimciler ve öğrenciler arasında özgür ve açık kaynak yazılıma müdahil olmak için gereken yetenekleri iyileştirmeyi, FOSS kodlama eğitimi almış insanların (genç veya yetişkin) sayısını ve kendilerini kadın, ikili olmayan (non-binary), cinsiyetsiz (genderqueer) veya cinsiyet uyumsuz (gender non-conforming) olarak tanımlayan GNOME katkıcılarının oranını arttırmayı umuyoruz.
 
 #### Yarışmanın önemli tarihleri nelerdir?
 
 * **6 Nisan 2020** Yarışma başlangıcı
-* **9 Nisan 2020** Başvurular açılıyor
+* **9 Nisan 2020** Başvurular açılır
 * **1 Haziran 2020** Fikir aşaması (Birinci aşama) tamamlanır
 * **(Karar verilecek) Haziranın sonları** GUADEC sırasında kazananlar açıklanır
 * **2 Kasım 2020** Kavramın kanıtlanması (İkinci aşama) tamamlanır
@@ -112,15 +112,15 @@ Yarışma özgür yazılıma katılımın tanıtımını yaptığı için, terci
 * FOSS lisanslı ya da Free Software Foundation (FSF) veya Open Source Initiative (OSI) tarafından tanınmış bir içerik lisansı kullanıyor olmasını
 * GNOME Masaüstü ile çalıştırılabilecek, görüntülenebilecek, düzenlenebilecek vb. halde olmasını
 
-Mesela, Inkscape projesi Illustrator projesine ve özgür yazılım kütüphaneleri kullanan bir oyun, Steam ile çalıştırılmak üzere tasarlanmış bir oyuna tercih edilecektir. Kapalı kaynak bir oyun kabul edilmeyecek ancak özgür olmayan (proprietary) bir yazılımla çalışabilen açık kaynak bir kabul edilecek ama juri tarafından beklenildiği kadar yüksek puan verilmeyecektir.
+Mesela, Inkscape projesi Illustrator projesine ve özgür yazılım kütüphaneleri kullanan bir oyun, Steam ile çalıştırılmak üzere tasarlanmış bir oyuna tercih edilecektir. Kapalı kaynak bir oyun kabul edilmeyecek ancak özgür olmayan (proprietary) bir yazılımla çalışabilen açık kaynak bir kabul edilecek ama juri tarafından diğerlerinde olduğu kadar yüksek puan verilmeyecektir.
 
 #### Herhangi bir girdi mi arıyorsunuz?
 
-[Yarışma Kurallar](http://gnome.org/challenge/terms)ı dahilinde belirlenen kurallar dışında başvurular belli bir yol izlemek zorunda değillerdir: yazılım projeleri, eğitici materyaller, videolar, oyunlar, sunumlar, etkinlikler, veya yeni başlangıç yapmış geliştiricilerin FOSS topluluğuna vurgu yapan herhangi başka bir şey olabilirler. Sonuna kadar yaratıcı olun.
+[Yarışma Kurallar](http://gnome.org/challenge/terms)ı dahilinde belirlenen kurallar dışında başvurular belli bir yol izlemek zorunda değildirler: yazılım projeleri, eğitici materyaller, videolar, oyunlar, sunumlar, etkinlikler, veya yeni başlangıç yapmış geliştiricilerin FOSS topluluğuna vurgu yapan herhangi başka bir şey olabilirler. Sonuna kadar yaratıcı olun.
 
 #### Birinci aşamaya nasıl girerim?
 
-Birinci aşamada, fikrinizi yazın, kendinizden (veya takımınızdan bahsedin) ve http://gnone.org/challange adresindeki yolu izleyerek 1 Haziran tarihine kadar yollayın. Başvurularınızın İngilizce olmasını istiyoruz ve ek materyaller teşvik ediyoruz (ancak zorunda bırakmıyoruz). Juriler başvurunuzu değerlendirecek ve hangi başvuraların sonraki aşamaya geçeceğine karar vereceklerdir.
+Birinci aşamada, fikrinizi yazın, kendinizden (veya takımınızdan bahsedin) ve http://gnone.org/challange adresindeki yolu izleyerek 1 Haziran tarihine kadar yollayın. Başvurularınızın İngilizce olmasını istiyoruz ve ek materyallerin olması daha iyidir (ancak zorunlu değildirler). Juriler başvurunuzu değerlendirecek ve hangi başvuraların sonraki aşamaya geçeceğine karar verecektir.
 
 Makalenizi planlamanızda yardımcı olması için aşağıda cevap vermenizi istediğimiz sorular mevcut: 
 
@@ -132,11 +132,11 @@ Makalenizi planlamanızda yardımcı olması için aşağıda cevap vermenizi is
 *İkinci bölüm - Proje detayları*
 
 1. Girdiniz yeni başlangıç yapmış geliştiricileri nasıl FOSS topluluğuna tanıtacak?
-2. Yarışmanın beklentilerin olması dolasıyla genellikle kodlayan topluluk içerinde hakettiğinden daha az temsil edilen farklı kesimlerden insanları topluluğa kenetleyecek fikirleri arıyorız. Fikriniz bu kesmi istenildiği yönde hedef alıyor olacak mı? Evetse, lütfen açıklayın.
+2. Yarışmanın hedeflerinden olması dolasıyla genellikle kodlayan topluluk içerinde hakettiğinden daha az temsil edilen farklı kesimlerden insanları topluluğa katılımını sağlayacak fikirleri arıyorız. Fikriniz bu kesmi istenildiği işliyor olacak mı? Evetse, lütfen açıklayın.
 3. Geliştiricileri FOSS topluluğuna tanıtmak önemli, ancak onları dahil etmek ve tutmakta gerekiyor. Lütfen projenizin bunu nasıl başaracağından bahsedin.
-4. Projenizin yaptığı etki nasıl ölçülecek?
+4. Projenizin yarattığı etki nasıl ölçülecek?
 5. Neyi gözden kaçırıyoruz? Projeniz hakkında eklemek istediğiniz başka bilgi var mı?
-* Ek mataryeller teşvik edilirler ancak zorunlu değillerdir. Lütfen en fazla 5 dosya yükleyin.
+* Ek mataryeller teşvik edilirler ancak zorunlu değildirler. Lütfen en fazla 5 dosya yükleyin.
 
 *Üçüncü aşama: Siz veya Takımınız*
 
@@ -147,17 +147,17 @@ Makalenizi planlamanızda yardımcı olması için aşağıda cevap vermenizi is
 * Telefon numarası
 * Ülke veya ikametgâh
 * FOSS topluluğuyla olan deneyiminizi açıklayın (deneyim gerektirmez)
-* Twitter kullanıcı adı (opsiyonel; sosyal medya bilgilerinizi vererek bize herkese açık tweetlerimizde, gönderilerimizde veya diğer sosyal medya reklamında SİZİ dahil etmemize izin vermiş olursunuz)
+* Twitter kullanıcı adı (opsiyonel; sosyal medya bilgilerinizi vererek herkese açık tweetlerimizde, gönderilerimizde veya diğer sosyal medya paylaşımlarımızda SİZİ dahil etmemize izin vermiş olursunuz)
 
 2. Bir takımla beraber mi çalışıyorsunuz?
 3. Sizin veya takımınızın özgeçmişi ve deneyimleri hakkında daha fazla bilgi almak isteriz. Alakası olan yeteneklerden, geçmiş proje örneklerinden, hobilerden ve diğer ilgilerden bahsetmekten çekinmeyin. 
 4. Dökümantasyon ve kayıt tutmak düzenli kalmanı prensiplerindir. Çalışmanızı, başkalarının da sonraki aşamalarda katkıda bulunabilmesi için nasıl dökümanlayacağınızı açıklayın.
-5. Bu yarışmanın varlığını nasıl öğrendiniz?
+5. Bu yarışmanın varlığından nasıl haberdar oldunuz?
 6. Takımınızda, röller ve sorumluluk dağılımı nasıl olacak? (eğer bireysel katılıyorsanız bunu atlayabilirsiniz)
 
 #### İkinci aşamada ne lazım?
 
-İlk aşamadan geçen 20 proje, ikinci aşamaya katılmaya davet edilecek ve onların tasarılarının çalışan bir prototip haline getirilmesi istenecektir. Bu aşama takımlara projelerinin uygulanabilirliğini ve ulaşabilirliğini juriye kanıtlama fırsatı sunacaktır. Bu aşamada henüz bitmiş bir ürün beklentisi yoktur ancak projelerin gidişatı ve bitmiş ürün hakkında juriye bir fikir verir. 
+İlk aşamadan geçen 20 proje, ikinci aşamaya katılmaya davet edilecek ve bunların çalışan bir prototip haline getirilmesi istenecektir. Bu aşama takımlara projelerinin uygulanabilirliğini ve ulaşabilirliğini juriye kanıtlama fırsatı sunacaktır. Bu aşamada henüz bitmiş bir ürün beklentisi yoktur ancak projelerin gidişatı ve bitmiş ürün hakkında juriye bir fikir verir. 
 
 #### Üçüncü aşama için ne lazım?
 
@@ -165,7 +165,7 @@ Makalenizi planlamanızda yardımcı olması için aşağıda cevap vermenizi is
 
 #### Fikri mülkiyet konusunda endişelenmeli miyim?
 
-Toplulukla Etkileşim Yarışması sıradışı ve yaratıcı bir şekilde tasarlanmış girdiler aramaktadır. Girdiler orijinal çalışma ve fikrin sahiplerinin olmalıdır. Girdiler resimler, müzik ve yazılım kütüphaneleri gibi üçüncü parti kaynakları izni olduğunu kanıtlayabildiği sürece kullanabilirler (mesela özgürce kullanabilir şekilde yayınlanmış içerik, oluştıran imzalı sürüme sahip, vb.)
+Toplulukla Etkileşim Yarışması sıradışı ve yaratıcı bir şekilde tasarlanmış girdiler aramaktadır. Girdiler orijinal çalışma ve fikrin sahiplerinin olmalıdır. Girdiler, resimler, müzik ve yazılım kütüphaneleri gibi üçüncü parti kaynakları izni olduğunu kanıtlayabildiği sürece kullanabilirler (mesela özgürce kullanabilir şekilde yayınlanmış içerik, oluşturan imzalı sürüme sahip, vb.)
 
 #### Teknik işleme ne kadar önemli? Göşterişli grafiklere sahip yazım hatasız bir girdi, göşterişsiz ve yazım hatalı olan bir girdiyi oyunda yener mi?
 
@@ -185,4 +185,4 @@ Evet, bir takıma gerek duymadan bireysel olarak katılabilirsiniz.
 
 Evet, çalışabileceğiniz başkaları varsa, kesinlikle bir takım kurun. 
 
-Bu proje sınıf veya bir arkadaş grubu için uygun. Takımın istediğin büyüklükte olabilir ama proje sorumluluklarını ve ödüllerleri bölüştürmen gerecekeğini unutma. 
+Bu proje sınıf veya bir arkadaş grubu için uygundur. Takımın istediğin büyüklükte olabilir ama proje sorumluluklarını ve ödüllerleri bölüştürmen gerecekeğini unutma. 
