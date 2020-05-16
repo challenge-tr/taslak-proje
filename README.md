@@ -13,7 +13,7 @@ GNOME Vakfı, [Endless](https://github.com/endlessm) işbirliğiyle bu yıl ilk 
 takımları, sonraki nesil geliştiricileri FOSS topluluğu ile bağlayacak ve gelecek yıllarda öyle kalmalarını sağlayacak harekete geçirici 
 fikirlerini paylaşmaya teşvik etmektir.
 
-Aradığımız girdiler şu özellikleri taşımalıdır:
+Aradığımız girdiler şu özellikleri taşımalıdır:Intellectual Property
 
 * **Eğlenceli:** Kodlamayı ilginç ve FOSS topluluğuna katılımı heyecan verici hale getirir
 * **Eğitici:** Yeni başlangıç yapmış geliştiricinin yeteneklerini geliştirir
@@ -83,19 +83,19 @@ Bunu gerçekleştirerek endistrünin şu anda deneyimlediği aksakları çözmek
 
 GNOME Vakfı ve Endless sonraki nesil geliştiricilerin desteklenmesine ilgi duyan bireyleri ve takımları tanımak ister. Endless sayesinde, 65 bin dolara kadar para ödülü sunuyoruz. Ödüllere şunlarda dahildir ama sınırlı değildir:  
 
-**Birinci aşama: Fikir**
+*Birinci aşama: Fikir*
 
 * Seçilen her bir girdi için 1000 dolar ödül 
 * Girdiyi depolama için sunucu alanı
 * Konferans dahilinde fikri sunma davetiyesi (Karar verilecek)
 * İkinci aşamaya katılma daveti
 
-**İkinci aşama: Kavramın kanıtlanması**
+*İkinci aşama: Kavramın kanıtlanması*
 
 * Seçilen her bir girdiye 5 bin dolar ödül
 * Üçüncü aşamaya katılma daveti
 
-**Üçüncü aşama: Sona gelinmiş proje**
+*Üçüncü aşama: Sona gelinmiş proje*
 
 * Birinciye 15 bin dolar para ödülü
 * İkinciye 10 bin dolar ödül
@@ -113,5 +113,58 @@ Yarışma özgür yazılıma katılımın tanıtımını yaptığı için, terci
 * GNOME Masaüstü ile çalıştırılabilecek, görüntülenebilecek, düzenlenebilecek vb. halde olmasını
 
 Mesela, Inkscape projesi Illustrator projesine ve özgür yazılım kütüphaneleri kullanan bir oyun, Steam ile çalıştırılmak üzere tasarlanmış bir oyuna tercih edilecektir. Kapalı kaynak bir oyun kabul edilmeyecek ancak özgür olmayan (proprietary) bir yazılımla çalışabilen açık kaynak bir kabul edilecek ama juri tarafından beklenildiği kadar yüksek puan verilmeyecektir.
+
+#### Herhangi bir girdi mi arıyorsunuz?
+
+[Yarışma Kurallar](http://gnome.org/challenge/terms)ı dahilinde belirlenen kurallar dışında başvurular belli bir yol izlemek zorunda değillerdir: yazılım projeleri, eğitici materyaller, videolar, oyunlar, sunumlar, etkinlikler, veya yeni başlangıç yapmış geliştiricilerin FOSS topluluğuna vurgu yapan herhangi başka bir şey olabilirler. Sonuna kadar yaratıcı olun.
+
+#### Birinci aşamaya nasıl girerim?
+
+Birinci aşamada, fikrinizi yazın, kendinizden (veya takımınızdan bahsedin) ve http://gnone.org/challange adresindeki yolu izleyerek 1 Haziran tarihine kadar yollayın. Başvurularınızın İngilizce olmasını istiyoruz ve ek materyaller teşvik ediyoruz (ancak zorunda bırakmıyoruz). Juriler başvurunuzu değerlendirecek ve hangi başvuraların sonraki aşamaya geçeceğine karar vereceklerdir.
+
+Makalenizi planlamanızda yardımcı olması için aşağıda cevap vermenizi istediğimiz sorular mevcut: 
+
+*Birinci bölüm - Fikriniz*
+
+1. Projenizin çalışma ismi nedir?
+2. Fikrinizden 200 veya daha kelimeyle bahsedin. (Anahtar özelliklerinden, sıradışı yanlarından ve yarışmanın hedeflerini nasıl yerine getireceğinden, vb. bahsetmekten çekinmeyin.)
+
+*İkinci bölüm - Proje detayları*
+
+1. Girdiniz yeni başlangıç yapmış geliştiricileri nasıl FOSS topluluğuna tanıtacak?
+2. Yarışmanın beklentilerin olması dolasıyla genellikle kodlayan topluluk içerinde hakettiğinden daha az temsil edilen farklı kesimlerden insanları topluluğa kenetleyecek fikirleri arıyorız. Fikriniz bu kesmi istenildiği yönde hedef alıyor olacak mı? Evetse, lütfen açıklayın.
+3. Geliştiricileri FOSS topluluğuna tanıtmak önemli, ancak onları dahil etmek ve tutmakta gerekiyor. Lütfen projenizin bunu nasıl başaracağından bahsedin.
+4. Projenizin yaptığı etki nasıl ölçülecek?
+5. Neyi gözden kaçırıyoruz? Projeniz hakkında eklemek istediğiniz başka bilgi var mı?
+* Ek mataryeller teşvik edilirler ancak zorunlu değillerdir. Lütfen en fazla 5 dosya yükleyin.
+
+*Üçüncü aşama: Siz veya Takımınız*
+
+1. Hakkınızda
+
+* Adınız
+* E-posta
+* Telefon numarası
+* Ülke veya ikametgâh
+* FOSS topluluğuyla olan deneyiminizi açıklayın (deneyim gerektirmez)
+* Twitter kullanıcı adı (opsiyonel; sosyal medya bilgilerinizi vererek bize herkese açık tweetlerimizde, gönderilerimizde veya diğer sosyal medya reklamında SİZİ dahil etmemize izin vermiş olursunuz)
+
+2. Bir takımla beraber mi çalışıyorsunuz?
+3. Sizin veya takımınızın özgeçmişi ve deneyimleri hakkında daha fazla bilgi almak isteriz. Alakası olan yeteneklerden, geçmiş proje örneklerinden, hobilerden ve diğer ilgilerden bahsetmekten çekinmeyin. 
+4. Dökümantasyon ve kayıt tutmak düzenli kalmanı prensiplerindir. Çalışmanızı, başkalarının da sonraki aşamalarda katkıda bulunabilmesi için nasıl dökümanlayacağınızı açıklayın.
+5. Bu yarışmanın varlığını nasıl öğrendiniz?
+6. Takımınızda, röller ve sorumluluk dağılımı nasıl olacak? (eğer bireysel katılıyorsanız bunu atlayabilirsiniz)
+
+#### İkinci aşamada ne lazım?
+
+İlk aşamadan geçen 20 proje, ikinci aşamaya katılmaya davet edilecek ve onların tasarılarının çalışan bir prototip haline getirilmesi istenecektir. Bu aşama takımlara projelerinin uygulanabilirliğini ve ulaşabilirliğini juriye kanıtlama fırsatı sunacaktır. Bu aşamada henüz bitmiş bir ürün beklentisi yoktur ancak projelerin gidişatı ve bitmiş ürün hakkında juriye bir fikir verir. 
+
+#### Üçüncü aşama için ne lazım?
+
+İkinci aşamanın kazananları üçüncü aşamaya davet edileceklerdir. Yarışmanın son aşaması olan bu aşama protitipleri ilerde kullanabilecek bitmiş bir ürüne dönüştürmeye odaklanır. 
+
+#### Fikri mülkiyet konusunda endişelenmeli miyim?
+
+Toplulukla Etkileşim Yarışması sıradışı ve yaratıcı bir şekilde tasarlanmış girdiler aramaktadır. Girdiler orijinal çalışma ve fikrin sahiplerinin olmalıdır. Girdi resimler, müzik ve yazılım kütüphaneleri üçüncü parti kaynakları izni olduğunu kanıtlayabildiği sürece kullanıbilirler (mesela özgürce kullanabilir şekilde yayınlanmış içerik, üretici imzalı sürüme sahip, vb.)
 
 *devamı gelecek*
