@@ -4,8 +4,8 @@ Bu depo, orijinal adıyla **Community Engagement Challange** yarışmasına kat�
 https://github.com/acikkaynak/acikkaynak-website/issues/79 üzerinden ulaşıbilirsiniz. 
 
 *Buradan sonrası https://www.gnome.org/challenge/ ve http://gnome.org/challenge/faq sayfalarının yerelleştirilmiş sürümleridir. Eğer çeviride
-bir eksik/yanlışlık görürseniz veya bazı bölümler geçerliliğini yitirmişse hata kaydı veya pull request (çekme isteği) açarak değişiklik 
-talep edebilirsiniz.*
+bir eksik/yanlışlık görürseniz veya bazı bölümler geçerliliğini yitirmişse pull request (çekme isteği) açarak değişiklik 
+talep edebilirsiniz veya https://github.com/acikkaynak/acikkaynak-website/issues/79 hata kaydı üzerinden bildirebilirsiniz.*
 
 ## Sonraki nesil açık kaynak geliştiricilere ulaşılmasına yardımcı olun
 
