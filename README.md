@@ -1,6 +1,14 @@
 # GNOME Toplulukla Etkileşim Yarışması Proje Taslağı
 
-Bu depo, orijinal adıyla **Community Engagement Challenge** yarışmasına katılım için kullanılabilecek taslak projedir. Daha fazla bilgiye https://github.com/acikkaynak/acikkaynak-website/issues/79 üzerinden ulaşabilirsiniz. 
+Bu depo, orijinal adıyla **Community Engagement Challenge** yarışmasına katılım için kullanılabilecek taslak projedir. 
+
+[basvuru-detaylari.md](https://github.com/challenge-tr/taslak-proje/blob/master/basvuru-detaylari.md) dosyasını düzenleyerek projenizinin başvuruda ihtiyaç duyacağı detayları tamamlayın.
+
+[taslak.md](https://github.com/challenge-tr/taslak-proje/blob/master/taslak.md) dosyasını projenizi detaylı bir biçimde açıklayan bir taslak haline getirin.
+
+Daha sonra projenizi https://github.com/challenge-tr üzerinde görülebilmesi için mirror ettirebilirsiniz.
+
+Daha fazla bilgiye https://github.com/acikkaynak/acikkaynak-website/issues/79 üzerinden ulaşabilirsiniz. 
 
 *Buradan sonrası https://www.gnome.org/challenge/ ve http://gnome.org/challenge/faq sayfalarının yerelleştirilmiş sürümleridir. Eğer çeviride
 bir eksik/yanlışlık görürseniz veya bazı bölümler geçerliliğini yitirmişse pull request (çekme isteği) açarak değişiklik talep edebilirsiniz veya https://github.com/acikkaynak/acikkaynak-website/issues/79 hata kaydı üzerinden bildirebilirsiniz. Başvuru formuna https://www.gnome.org/challenge/ adresinden ulaşabilirsiniz.*
