@@ -41,7 +41,7 @@ Uygulanabilirliği gösteren temel prototip
 
 Yarışmanın belirlediği ölçüde çalışan teslimi mümkün bitmiş ürün
 
-## Başvurunuzu 1 Haziran'a kadar yapın
+## Başvurunuzu 1 Temmuz'a kadar yapın
 
 Birinci aşama şu anda devam etmektedir! Online formu doldurarak başvurunuzu iletin. Hala fikriniz üzerinde mi çalışıyorsunuz? Aşağıda yardımcı olabilecek Sıkça Sorulan Sorular'ı ve cevaplarını bulabilirsiniz.
 
@@ -75,8 +75,8 @@ Bunu gerçekleştirerek endüstrinin şu anda deneyimlediği aksakları çözmek
 
 * **6 Nisan 2020** Yarışma başlangıcı
 * **9 Nisan 2020** Başvurular açılır
-* **1 Haziran 2020** Fikir aşaması (Birinci aşama) tamamlanır
-* **(Karar verilecek) Haziranın sonları** GUADEC sırasında kazananlar açıklanır
+* **1 Temmuz 2020** Fikir aşaması (Birinci aşama) tamamlanır
+* **(Karar verilecek) Temmuz'un sonları** GUADEC sırasında kazananlar açıklanır
 * **2 Kasım 2020** Kavramın kanıtlanması (İkinci aşama) tamamlanır
 * **1 Aralık 2020** Kavramın kanıtlanması kazananları açıklanır
 * **1 Mart 2021** Sona gelinmiş proje (Üçüncü aşama) tamamlanır
@@ -123,7 +123,7 @@ Yarışma özgür yazılıma dahil olmanın önemine vurgu yaptığı için, ter
 
 #### Birinci aşamaya nasıl girerim?
 
-Birinci aşamada, fikrinizi yazın, kendinizden (veya takımınızdan bahsedin) ve http://gnone.org/challange adresindeki yolu izleyerek 1 Haziran tarihine kadar yollayın. Başvurularınızın İngilizce olmasını istiyoruz ve ek materyallerin kullanılmasını destekliyoruz (ancak zorunda bırakmıyoruz). Jüri başvurunuzu değerlendirecek ve hangi başvuruların sonraki aşamaya geçeceğine karar verecektir.
+Birinci aşamada, fikrinizi yazın, kendinizden (veya takımınızdan bahsedin) ve http://gnone.org/challange adresindeki yolu izleyerek 1 Temmuz tarihine kadar yollayın. Başvurularınızın İngilizce olmasını istiyoruz ve ek materyallerin kullanılmasını destekliyoruz (ancak zorunda bırakmıyoruz). Jüri başvurunuzu değerlendirecek ve hangi başvuruların sonraki aşamaya geçeceğine karar verecektir.
 
 Makalenizi planlamanızda yardımcı olması için aşağıda cevap vermenizi istediğimiz sorular mevcut: 
 
